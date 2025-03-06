@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "9571489639",
+    "project_id": "split-wise-a54ab",
+    "storage_bucket": "split-wise-a54ab.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9571489639:android:dad4b3f5a26fdd41cfc1c2",
+        "android_client_info": {
+          "package_name": "com.chinnasivakrishna.learning"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCknHyDrKZK5CkIFvU5_eji_CuotT63Unw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
