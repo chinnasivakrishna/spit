@@ -26,7 +26,7 @@ const LoginScreen = () => {
     iosClientId: '671394807556-i4ke2ovb1ghtm7f5n3mkrmhnhvbbsa8f.apps.googleusercontent.com', 
     webClientId: '671394807556-bimjas4iosakeeni40ajv9ps885prso9.apps.googleusercontent.com', 
     redirectUri: Platform.select({
-      web: 'http://localhost:8082',
+      web: 'https://leafy-cucurucho-868a37.netlify.app',
       default: 'com.chinnasivakrishna.learning:/oauth2redirect'
     }),
     scopes: ['profile', 'email']
